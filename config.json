@@ -1,0 +1,9 @@
+{
+    "server": "dotgr.id",
+    "home-timeline-length": 200,
+    "max-followings": 80,
+    "from-notifications": 3,
+    "from-lists": 1,
+    "max-list-length": 100,
+    "max-list-accounts": 10
+}
